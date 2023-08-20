@@ -12,7 +12,7 @@
 - [API Endpoints]
 - [Usage]
 - [Testing]
-
+- [Screenshot]
 
 ---
 
@@ -97,3 +97,7 @@ To ensure the reliability and validity of the matrix transposition logic,We util
     npm test
 
 ---
+
+## Screenshots
+
+![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-dualmode.png)
