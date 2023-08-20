@@ -100,4 +100,7 @@ To ensure the reliability and validity of the matrix transposition logic,We util
 
 ## Screenshots
 
-![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-dualmode.png)
+![solarized dualmode](https://firebasestorage.googleapis.com/v0/b/venkatseviappanportfolio.appspot.com/o/outputScreenshotGitBash.png?alt=media&token=0df5b8bb-9886-43a3-9664-efec3b4e7d0a)
+
+![solarized dualmode]([https://github.com/altercation/solarized/raw/master/img/solarized-dualmode.png](https://firebasestorage.googleapis.com/v0/b/venkatseviappanportfolio.appspot.com/o/outputScreenshot.jpg?alt=media&token=594a2da6-4152-4289-a176-33e933d03251)https://firebasestorage.googleapis.com/v0/b/venkatseviappanportfolio.appspot.com/o/outputScreenshot.jpg?alt=media&token=594a2da6-4152-4289-a176-33e933d03251)
+
